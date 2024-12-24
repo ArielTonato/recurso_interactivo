@@ -21,7 +21,7 @@ const Introduction = () => {
 
       <InfoCard title="¿Qué es CI/CD?" className="mb-6">
         <p className="text-gray-700 mb-4">
-          CI/CD Fisei es la sigla para la integración y la distribución o implementación continuas,
+          CI/CD es la sigla para la integración y la distribución o implementación continuas,
           cuyo objetivo es mejorar y agilizar el ciclo de vida de desarrollo del software.
         </p>
       </InfoCard>
